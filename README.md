@@ -70,16 +70,6 @@ CALCULADORAFX
 ---
 
 
-## 📊 Apresentação do Projeto
-
-Espaço reservado para o arquivo de apresentação utilizado na atividade.
-
-📎 **Arquivo da apresentação:**
-*[Demonstração.pptx](https://github.com/user-attachments/files/25755540/Demonstracao.pptx)*
-
-
----
-
 ## 👩‍💻 Autoria
 
 Projeto desenvolvido por **Suellen Araujo** como atividade acadêmica.
